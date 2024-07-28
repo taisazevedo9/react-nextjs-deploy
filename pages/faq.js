@@ -1,4 +1,4 @@
-import FAQScreen from '../components/screens/HomeScreen/FAQScreen';
+import FAQScreen from '../components/screens/FAQScreen';
 
 export default FAQScreen; 
 
